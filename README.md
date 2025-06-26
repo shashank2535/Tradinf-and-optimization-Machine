@@ -1,4 +1,5 @@
 # Trading-and-optimization-Machine
+We are usingsophisticated clustering-based model designed to identify and analyze similar market patterns of all stocks listed on the National Stock Exchange (NSE). By mapping current market data to specific regions, which enables targeted trading strategies and optimizes decision-making based on prevailing market conditions.
 # Features
 Market Pattern Clustering: Clusters all NSE-listed stocks to detect and analyze similar market patterns.
 Targeted Trading Strategies: Implements historical strategies that performed well in specific market regions, tailoring trading decisions to current conditions.
